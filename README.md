@@ -11,3 +11,5 @@ Lux value depends on what type of photoresistor you choose.You have to take meas
 To open codefile I suggest do it with Arduino IDE app.
 
 Change somwhere else 
+
+Integration branch changes
