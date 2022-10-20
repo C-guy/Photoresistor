@@ -9,4 +9,7 @@ The first one measure voltage across the photoresistor and calculate the lux on 
 Lux value depends on what type of photoresistor you choose.You have to take measures of resistance in places with diffrent light power. 
 To open codefile I suggest do it with Arduino IDE app.
 
-Change somwhere else 
+Change somwhere else
+
+This is first change 
+
