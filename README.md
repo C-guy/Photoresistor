@@ -2,7 +2,7 @@
 An easy project for Atmega.
 The aim for this project is to create an easy program in c++, which can measure light level with photoresistor, LCD screen and microchip Atmega 328.
 Sketch consist some basic declaration of pinouts and two major functions- Calculate and Show.
-
+This is first branch changes
 These are the changes on main branch
 These are the changes on second branch
 These are the pull branch changes
